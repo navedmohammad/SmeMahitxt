@@ -35,7 +35,7 @@ Contact: [Telegram](https://t.me/SmexyOP)
 
 
 # deploy to railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/0MCpi4?referralCode=OCkeMo)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/https://github.com/navedmohammad/SmeMahitxt)
 
 ## Botfather Commands
 ```
